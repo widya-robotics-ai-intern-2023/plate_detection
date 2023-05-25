@@ -14,4 +14,3 @@ pip install ultralytics
 
 ## Files
 "Plate_Detection_using_YOLOv8.ipynb" contains model training and evaluation
-"test.py" contains code to test the model on new data/images 
